@@ -41,8 +41,7 @@ Habrán diferentes concursos y premios de parte de los patrocinadores y organiza
 
 Si quieres participar en el taller para hacer tus pull/merge request necesitas llevar tu laptop para que puedas desarrollar tus contribuciones. Y no es necesario tener conocimientos en programación.
 
-Para estar enterado de nuevas actualizaciones respecto al evento puedes seguirnos en instagram
-![hacktoberfestgye](https://www.instagram.com/hacktoberfestgye/)
+Para estar enterado de nuevas actualizaciones respecto al evento puedes seguirnos en [Instagram](https://www.instagram.com/hacktoberfestgye/)
 
 Para contactarte con el organizador puedes escribir al [WhatsApp](https://wa.me/message/AAI3OELJXGBII1)
 
