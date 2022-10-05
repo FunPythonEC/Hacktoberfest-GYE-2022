@@ -29,3 +29,13 @@ Para participar debes registrate con tu cuenta de GitLab/GitHub [REGISTRO](https
 El evento sera presencial y tendra lugar en las instalaciones de EPICO en Plaza Guayarte de Guayaquil desde las 10:00 a 17:30 el dia sabado 15 de octubre.
 
 Habran diferentes concursos y premios de parte de los patrocinadores y organizadores.
+
+## ~$ git push -u origin evento-2022
+
+### Agenda
+
+### Oradores
+
+### Patrocinadores
+
+### CdC
