@@ -1,5 +1,10 @@
 # Hacktoberfest-GYE-2022
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)z
+![contributors](https://img.shields.io/github/contributors/FunPythonEC/Hacktoberfest-GYE-2022?style=plastic)
+![last commit](https://img.shields.io/github/last-commit/FunPythonEC/Hacktoberfest-GYE-2022?style=plastic)
+![release](https://img.shields.io/github/v/release/FunPythonEC/Hacktoberfest-GYE-2022)
+
 <!-- ## ~$ git init -->
 
 ## ~$ git clone Hacktoberfest
