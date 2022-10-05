@@ -23,7 +23,7 @@ Si logras ser de los primeros 40k participantes que completen 4 pull/merge reque
 
 El objetivo de hacer un evento local en Guayaquil es dar a conocer de primera mano a los mantenedores, comunidades y empresas tecnológicas que lideran y apoyan iniciativas para el ecosistema de desarrollo, emprendimiento y divulgación de conocimiento.
 
-el evento brindara una guía para los contribuidores principiantes y avanzados para colaborar y lograr con éxito el reto de forma significativa en el ecosistema de código libre.
+El evento brindara una guía para los contribuidores principiantes y avanzados para colaborar y lograr con éxito el reto de forma significativa en el ecosistema de código libre.
 
 Puedes conectarte con los mentores y mantenedores para resolver dudas, aprender cosas nuevas y poner en practica tus habilidades. También conocerás oradores con una larga experiencia la industria tecnológica.
 
@@ -34,6 +34,8 @@ Para participar debes regístrate con tu cuenta de GitLab/GitHub [REGISTRO](http
 El evento será presencial y tendrá lugar en las instalaciones de EPICO en Plaza Guayarte de Guayaquil desde las 10:00 a 17:30 el dia sábado 15 de octubre.
 
 Habrán diferentes concursos y premios de parte de los patrocinadores y organizadores.
+
+![flyer-hack-gye-2022](media/artes-Hacktober-tw.png)
 
 ### ¿Qué necesitas para participar?
 
