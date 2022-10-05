@@ -11,3 +11,13 @@ Hacktoberfest es un festival anual para incentivar la filosfia Open Source duran
 Hacktoberfest no solo se trata de codigo, tambien se toma en cuenta contribuciones sin codigo. Incluso la contribucion mas pequeña es una contribucion.
 
 Si logras ser de los primeros 40k participantes que completen 4 pull/merge request ganaras una camisa o un arbol plantado en tu nombre.
+
+## ~$ git add hacktoberfest/guayaquil
+
+### Que pasara en hacktoberfest gye
+
+El objetivo de hacer un evento local en guayaquil es dar a conocer de primera mano a los mantenedores, comunidades y empresas tecnologicas que lideran y apoyan iniciativas para el ecosistema de desarrollo, emprendimiento y divulgacion de conocimiento.
+
+el evento brindara una guia para los contribuidores principiantes y avanzados para colaborar y lograr con exito el reto de forma significativa en el ecosistema de codigo libre.
+
+Puedes conectarte con los mentores y mantenedores para resolver dudas, aprender cosas nuevas y poner en practica tus habilidades. Tambien conoceras oradores con una larga expereciencia la industria tecnologica.
