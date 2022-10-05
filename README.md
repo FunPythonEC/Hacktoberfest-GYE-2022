@@ -21,3 +21,11 @@ El objetivo de hacer un evento local en guayaquil es dar a conocer de primera ma
 el evento brindara una guia para los contribuidores principiantes y avanzados para colaborar y lograr con exito el reto de forma significativa en el ecosistema de codigo libre.
 
 Puedes conectarte con los mentores y mantenedores para resolver dudas, aprender cosas nuevas y poner en practica tus habilidades. Tambien conoceras oradores con una larga expereciencia la industria tecnologica.
+
+## ~$ git commit -m "explorando el mundo del open source"
+
+Para participar debes registrate con tu cuenta de GitLab/GitHub [REGISTRO](https://hacktoberfest.com/)
+
+El evento sera presencial y tendra lugar en las instalaciones de EPICO en Plaza Guayarte de Guayaquil desde las 10:00 a 17:30 el dia sabado 15 de octubre.
+
+Habran diferentes concursos y premios de parte de los patrocinadores y organizadores.
