@@ -29,11 +29,13 @@ Puedes conectarte con los mentores y mantenedores para resolver dudas, aprender 
 
 ## ~$ git commit -m " Explorando el mundo del open source"
 
-Para participar debes regístrate con tu cuenta de GitLab/GitHub [REGISTRO](https://Hacktoberfest.com/)
+Para participar en el evento global debes [regístrate con tu cuenta de GitLab/GitHub](https://Hacktoberfest.com/)
 
 El evento será presencial y tendrá lugar en las instalaciones de EPICO en Plaza Guayarte de Guayaquil desde las 10:00 a 17:30 el dia sábado 15 de octubre.
 
-Habrán diferentes concursos y premios de parte de los patrocinadores y organizadores.
+[Regístrate en meetup](https://www.meetup.com/es-ES/guayaquil-tech/events/288977960/) para confirmar tu asistencia presencial al evento.
+
+<!-- Habrán diferentes concursos y premios de parte de los patrocinadores y organizadores. -->
 
 ![flyer-hack-gye-2022](media/artes-Hacktober-tw.png)
 
