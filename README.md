@@ -49,8 +49,14 @@ Para contactarte con el organizador puedes escribir al [WhatsApp](https://wa.me/
 
 ### Agenda
 
-### Oradores
+Se tiene planeado actividades como charlas, talleres y experimentados mentores.
 
-### Patrocinadores
+Habrán retos de diferentes niveles de dificultad y premios para todos los niveles.
 
-### CdC
+Gracias a nuestros patrocinadores contaremos con bebidas y coffee break para los participantes.
+
+<!-- ### Oradores -->
+
+<!-- ### Patrocinadores -->
+
+<!-- ### CdC -->
