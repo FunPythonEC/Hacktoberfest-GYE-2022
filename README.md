@@ -59,4 +59,6 @@ Gracias a nuestros patrocinadores contaremos con bebidas y coffee break para los
 
 <!-- ### Patrocinadores -->
 
-<!-- ### CdC -->
+### Código de Conducta
+
+Los eventos de Hacktoberfest son amigables, abiertos, e inclusivos. Por favor leer [nuestro código de conducta](https://github.com/FunPythonEC/Hacktoberfest-GYE-2022/blob/main/CODE_OF_CONDUCT.md) antes de asistir al evento. Happy hacking!
