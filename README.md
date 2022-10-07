@@ -29,11 +29,13 @@ Puedes conectarte con los mentores y mantenedores para resolver dudas, aprender 
 
 ## ~$ git commit -m " Explorando el mundo del open source"
 
-Para participar debes regístrate con tu cuenta de GitLab/GitHub [REGISTRO](https://Hacktoberfest.com/)
+Para participar en el evento global debes [regístrate con tu cuenta de GitLab/GitHub](https://Hacktoberfest.com/)
 
 El evento será presencial y tendrá lugar en las instalaciones de EPICO en Plaza Guayarte de Guayaquil desde las 10:00 a 17:30 el dia sábado 15 de octubre.
 
-Habrán diferentes concursos y premios de parte de los patrocinadores y organizadores.
+[Regístrate en meetup](https://www.meetup.com/es-ES/guayaquil-tech/events/288977960/) para confirmar tu asistencia presencial al evento.
+
+<!-- Habrán diferentes concursos y premios de parte de los patrocinadores y organizadores. -->
 
 ![flyer-hack-gye-2022](media/artes-Hacktober-tw.png)
 
@@ -41,16 +43,28 @@ Habrán diferentes concursos y premios de parte de los patrocinadores y organiza
 
 Si quieres participar en el taller para hacer tus pull/merge request necesitas llevar tu laptop para que puedas desarrollar tus contribuciones. Y no es necesario tener conocimientos en programación.
 
+### Contacto
+
 Para estar enterado de nuevas actualizaciones respecto al evento puedes seguirnos en [Instagram](https://www.instagram.com/hacktoberfestgye/)
 
-Para contactarte con el organizador puedes escribir al [WhatsApp](https://wa.me/message/AAI3OELJXGBII1)
+Para contactarte con el organizador puedes escribir al [WhatsApp](https://wa.me/message/AAI3OELJXGBII1) o al correo de la comunidad: funpython.ec@gmail.com
 
 ## ~$ git push -u origin evento-2022
 
 ### Agenda
 
-### Oradores
+Se tiene planeado actividades como charlas, talleres y experimentados mentores.
 
-### Patrocinadores
+Habrán retos de diferentes niveles de dificultad y premios para todos los niveles.
 
-### CdC
+Gracias a nuestros patrocinadores contaremos con bebidas y coffee break para los participantes.
+
+<!-- ### Oradores -->
+
+<!-- ### Patrocinadores -->
+
+<!-- ### Equipo organizador -->
+
+### Código de Conducta
+
+Los eventos de Hacktoberfest son amigables, abiertos, e inclusivos. Por favor leer [nuestro código de conducta](CODE_OF_CONDUCT.md) antes de asistir al evento. Happy hacking!
