@@ -41,9 +41,11 @@ Habrán diferentes concursos y premios de parte de los patrocinadores y organiza
 
 Si quieres participar en el taller para hacer tus pull/merge request necesitas llevar tu laptop para que puedas desarrollar tus contribuciones. Y no es necesario tener conocimientos en programación.
 
+### Contacto
+
 Para estar enterado de nuevas actualizaciones respecto al evento puedes seguirnos en [Instagram](https://www.instagram.com/hacktoberfestgye/)
 
-Para contactarte con el organizador puedes escribir al [WhatsApp](https://wa.me/message/AAI3OELJXGBII1)
+Para contactarte con el organizador puedes escribir al [WhatsApp](https://wa.me/message/AAI3OELJXGBII1) o al correo de la comunidad: funpython.ec@gmail.com
 
 ## ~$ git push -u origin evento-2022
 
@@ -59,7 +61,8 @@ Gracias a nuestros patrocinadores contaremos con bebidas y coffee break para los
 
 <!-- ### Patrocinadores -->
 
+<!-- ### Equipo organizador -->
+
 ### Código de Conducta
 
 Los eventos de Hacktoberfest son amigables, abiertos, e inclusivos. Por favor leer [nuestro código de conducta](CODE_OF_CONDUCT.md) antes de asistir al evento. Happy hacking!
-Hacktoberfest-GYE-2022/README.md
