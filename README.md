@@ -51,13 +51,25 @@ Para contactarte con el organizador puedes escribir al [WhatsApp](https://wa.me/
 
 ## ~$ git push -u origin evento-2022
 
-### Agenda
+### Agenda (tentativa)
 
 Se tiene planeado actividades como charlas, talleres y experimentados mentores.
 
 Habrán retos de diferentes niveles de dificultad y premios para todos los niveles.
 
 Gracias a nuestros patrocinadores contaremos con bebidas y coffee break para los participantes.
+
+| **Hora** | **Actividad**                                        |
+| -------- | ---------------------------------------------------- |
+| _10:00_  | Apertura y presentación de evento                    |
+| _10:30_  | ¿Qué es el Open Source?                              |
+| _11:00_  | Casos de éxito de proyectos Open Source              |
+| _11:30_  | Presentación de plataformas GitHub y GitLab          |
+| _12:00_  | ¿Cómo puedo empezar a contribuir?                    |
+| _13:00_  | Coffee Break & Networking                            |
+| _14:00_  | A generar un Pull Request!                           |
+| _15:30_  | Conversatorio: Pros y Cons de contribuir a proyectos |
+| _16:30_  | Concurso de programación                             |
 
 <!-- ### Oradores -->
 
