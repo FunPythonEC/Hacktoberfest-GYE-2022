@@ -13,29 +13,23 @@
 
 Hacktoberfest es un festival anual para incentivar la filosofía Open Source durante todo el mes de octubre. El objetivo es fomentar a las personas que usan proyectos open source a participar y contribuir activamente en los repositorios de estos proyectos ya sea en GitLab o GitHub.
 
-Hacktoberfest no solo se trata de código, también se toma en cuenta contribuciones sin código. Incluso la contribución mas pequeña es una contribución.
-
-Si logras ser de los primeros 40k participantes que completen 4 pull/merge request ganaras una camisa o un árbol plantado en tu nombre.
-
 ## ~$ git add Hacktoberfest/Guayaquil
 
-### ¿Qué pasará en Hacktoberfest Guayaquil?
+### ¿Por qué Hacktoberfest Guayaquil?
 
-El objetivo de hacer un evento local en Guayaquil es dar a conocer de primera mano a los mantenedores, comunidades y empresas tecnológicas que lideran y apoyan iniciativas para el ecosistema de desarrollo, emprendimiento y divulgación de conocimiento.
+Hacer un evento local en Guayaquil ayuda a conocer de primera mano a los mantenedores, comunidades y empresas tecnológicas que lideran y apoyan iniciativas para el ecosistema de desarrollo, emprendimiento y divulgación de conocimiento libre.
 
-El evento brindara una guía para los contribuidores principiantes y avanzados para colaborar y lograr con éxito el reto de forma significativa en el ecosistema de código libre.
+Puedes conectar con mantenedores para resolver dudas, aprender cosas nuevas y poner en practica tus habilidades. También conocerás oradores con una larga experiencia la industria tecnológica.
 
-Puedes conectarte con los mentores y mantenedores para resolver dudas, aprender cosas nuevas y poner en practica tus habilidades. También conocerás oradores con una larga experiencia la industria tecnológica.
+El evento contará con mentores que guairán a participantes a lograr con éxito contribuciones significativa en el ecosistema de código libre.
 
 ## ~$ git commit -m " Explorando el mundo del open source"
 
 Para participar en el evento global debes [regístrate con tu cuenta de GitLab/GitHub](https://Hacktoberfest.com/)
 
-El evento será presencial y tendrá lugar en las instalaciones de EPICO en Plaza Guayarte de Guayaquil desde las 10:00 a 17:30 el dia sábado 15 de octubre.
+El evento será presencial y tendrá lugar en las instalaciones de EPICO en Plaza Guayarte de Guayaquil **desde las 10:00 a 17:30 el dia sábado 15 de octubre si eres puntual tendras un increible kit de bienvenida**.
 
-[Regístrate en meetup](https://www.meetup.com/es-ES/guayaquil-tech/events/288977960/) para confirmar tu asistencia presencial al evento.
-
-<!-- Habrán diferentes concursos y premios de parte de los patrocinadores y organizadores. -->
+[Confirma tu asistencia meetup](https://www.meetup.com/es-ES/guayaquil-tech/events/288977960/) para **separar tu entrada al evento y ser acrreedor a los diferentes sorteos de premios**.
 
 ![flyer-hack-gye-2022](media/artes-Hacktober-tw.png)
 
@@ -45,31 +39,34 @@ Si quieres participar en el taller para hacer tus pull/merge request necesitas l
 
 ### Contacto
 
-Para estar enterado de nuevas actualizaciones respecto al evento puedes seguirnos en [Instagram](https://www.instagram.com/hacktoberfestgye/)
+Para estar enterado de nuevas actualizaciones respecto al evento puedes seguirnos en instagram:
+[@hacktoberfestgye](https://www.instagram.com/hacktoberfestgye/)
+[@funpython](https://www.instagram.com/hacktoberfestgye/)
 
 Para contactarte con el organizador puedes escribir al [WhatsApp](https://wa.me/message/AAI3OELJXGBII1) o al correo de la comunidad: funpython.ec@gmail.com
 
 ## ~$ git push -u origin evento-2022
 
-### Agenda (tentativa)
+### Agenda
 
-Se tiene planeado actividades como charlas, talleres y experimentados mentores.
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">HORA</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">CHARLAS</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">PONENTE/ORGANIZACION</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">10:00</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">REGISTRO</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">10:30</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"> INAGURACION</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">FUNPYTHON, OPEN LAB, GYE-TECH</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">11:00</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">ICE BREAKER Y PRESENTACIÓN DE LOS RETOS DE ARTE, DISEÑO, CODING Y COMUNIDADES</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">11:30</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">FLOSS &amp; Hacktoberfest</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Carlos Villavicencio</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">12:00</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">GIT: GitHub/GitLab</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Gustavo Cevallos</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">12:30</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Data Science en Ciberseguridad</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Yoshihito Adachi</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">13:00</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2" rowspan="2">COFFEE BREAK &amp; NETWORKING</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">13:30</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">14:00</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Uso de repositorios y control de versiones en diseño electronico </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Jose Laica</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">14:30</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Enseñar para aprender</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Kevin Urgiles</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">15:00</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Emprendiendo en tecnología sin capital semilla usando open source</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Branny Chito</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">15:30</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">REGISTRO Y TRANSFERENCIA DE NFT'S</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">16:00</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">PREMIACION RETOS NO CODING</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">16:30</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">PREMIACION RETOS CODING</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">17:00 - 17:30</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">CIERRE</td></tr></tbody></table>
 
-Habrán retos de diferentes niveles de dificultad y premios para todos los niveles.
+### Participa y gana
 
-Gracias a nuestros patrocinadores contaremos con bebidas y coffee break para los participantes.
+Digital Ocean regalará: “Una camiseta Hacktoberfest de edición limitada o sembrar un arbol commemoratio por enviar cuatro contribuciones válidas en repositorios públicos entre el 1 y el 31 de octubre”.
 
-| **Hora** | **Actividad**                                        |
-| -------- | ---------------------------------------------------- |
-| _10:00_  | Apertura y presentación de evento                    |
-| _10:30_  | ¿Qué es el Open Source?                              |
-| _11:00_  | Casos de éxito de proyectos Open Source              |
-| _11:30_  | Presentación de plataformas GitHub y GitLab          |
-| _12:00_  | ¿Cómo puedo empezar a contribuir?                    |
-| _13:00_  | Coffee Break & Networking                            |
-| _14:00_  | A generar un Pull Request!                           |
-| _15:30_  | Conversatorio: Pros y Cons de contribuir a proyectos |
-| _16:30_  | Concurso de programación                             |
+- En FunPython, creemos que es importante diversificar las oportunidades y actividades para involucrar a más personas de otras áreas a habitar el mundo de la tecnologia, por ello se realizaran concursos de programacion de diferentes áreas, retos de arte y diseño, habrán mentores que guiaran a los participantes.
+
+Contribuir al código abierto no es solo para gente técnica que quiere escribir código. Hay muchas oportunidades para utilizar sus habilidades profesionales en apoyo de proyectos de código abierto. Este año, nos esforzamos por fomentar las contribuciones que requieren alguna experiencia técnica o ninguna. No importa tu experiencia, ¡puedes participar en Hacktoberfest!
+
+Hacktoberfest da la bienvenida a personas de cualquier nivel de experiencia para participar, y las contribuciones de código bajo y sin código son opciones fantásticas para las personas que no tienen muchos conocimientos técnicos. Estos son algunos ejemplos de formas en que puede contribuir a proyectos de código abierto:
+
+| CONTRIBUCION  | CODIGO BAJO               | SIN CODIGO                                                  |
+| ------------- | ------------------------- | ----------------------------------------------------------- |
+| Escritura     | Documentación técnica     | Traducción de documentación                                 |
+| Diseño        | Pruebas                   | Experiencia de usuario, diseño gráfico, produccion de video |
+| Evangalizador | Charlas, mentorias, blogs | Exposición en redes sociales                                |
+| Retos         | Coding game               | arte/diseño con nft                                         |
 
 <!-- ### Oradores -->
 
