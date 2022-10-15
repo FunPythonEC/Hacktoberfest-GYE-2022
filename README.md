@@ -66,7 +66,14 @@ Hacktoberfest da la bienvenida a personas de cualquier nivel de experiencia para
 | Escritura     | Documentación técnica     | Traducción de documentación                                 |
 | Diseño        | Pruebas                   | Experiencia de usuario, diseño gráfico, producción de video |
 | Evangelizador | Charlas, mentarías, blogs | Exposición en redes sociales                                |
-| Retos         | Coding game               | arte/diseño con nft                                         |
+| Retos         | Coding game               | Arte/diseño con nft                                         |
+
+# Premios
+
+- 1 premio sorpresa
+- 1 año de internet gratis
+- 50 boletos edición limitada con NFT
+- Camisas, tazas y stickers edición limitadas del evento
 
 <!-- ### Oradores -->
 
