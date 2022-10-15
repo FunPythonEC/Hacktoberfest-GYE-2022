@@ -31,7 +31,7 @@ El evento será presencial y tendrá lugar en las instalaciones de EPICO en Plaz
 
 [Confirma tu asistencia meetup](https://www.meetup.com/es-ES/guayaquil-tech/events/288977960/) para **separar tu entrada al evento y ser acreedor a los diferentes sorteos de premios**.
 
-![flyer-hack-gye-2022](media/artes-Hacktober-tw.png)
+![flyer-hack-gye-2022](media/artes-Hacktober-tw-v3.png)
 
 ### ¿Qué necesitas para participar?
 
