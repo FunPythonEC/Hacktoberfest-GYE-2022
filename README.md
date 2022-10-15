@@ -81,6 +81,12 @@ Hacktoberfest da la bienvenida a personas de cualquier nivel de experiencia para
 
 <!-- ### Equipo organizador -->
 
+### Contribuidores
+
+<a href="https://github.com/FunPythonEC/Hacktoberfest-GYE-2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FunPythonEC/Hacktoberfest-GYE-2022" />
+</a>
+
 ### Código de Conducta
 
 Los eventos de Hacktoberfest son amigables, abiertos, e inclusivos. Por favor leer [nuestro código de conducta](CODE_OF_CONDUCT.md) antes de asistir al evento. Happy hacking!
