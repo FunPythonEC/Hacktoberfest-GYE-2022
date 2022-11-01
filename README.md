@@ -75,6 +75,8 @@ Hacktoberfest da la bienvenida a personas de cualquier nivel de experiencia para
 - 50 boletos edición limitada con NFT
 - Camisas, tazas y stickers edición limitadas del evento
 
+> La entrega de premios se realizara el día **12 de noviembre**, se hará en las instalaciones de ÉPICO. Los premiados serán contactados por el equipo organizador por correo electronico y/o WhatsApp.
+
 <!-- ### Oradores -->
 
 <!-- ### Patrocinadores -->
